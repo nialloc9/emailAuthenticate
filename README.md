@@ -130,4 +130,6 @@ callBackFunction: optional callback function to handle the codes returned from c
 ## NB
 Please feel free to add suggestions and ideas to make this project better.
 
+Remember to changed your php.ini file and your sendMail file to allow for emails to be sent.
+
 Remove console.log messages if you wish to use on production sites.
